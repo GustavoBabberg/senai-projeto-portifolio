@@ -131,6 +131,7 @@ body {
 }
 
 .copy {
+    grid-column: 1;
     margin-bottom: 2rem;
     background: #652D2E;
 }
@@ -146,6 +147,7 @@ body {
 }
 
 .projetop {
+    grid-column: 2/5;
     padding: 160px;
     font-family: monospace;
     font-weight: bold;
